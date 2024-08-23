@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "cliente-app-coffeeshop",
+    "slug": "cliente-app-coffeeshop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/KIDDYLAND.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/KIDDYLAND.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#EAD8C0"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/KIDDYLAND.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lextrono.clienteappcoffeeshop"
+    },
+    "web": {
+      "favicon": "./assets/KIDDYLAND.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62093d4b-9711-4b83-8053-3a344ff00bb1"
+      }
+    }
+  }
+}
